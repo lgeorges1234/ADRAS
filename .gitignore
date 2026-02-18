@@ -1,0 +1,18 @@
+# Virtual Environment
+venvadras/
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# A.D.R.A.S. Data
+adras-framework/data/vector_store/
+adras-framework/data/logs/*.jsonl
+adras-framework/data/external/*
+
+# IDEs
+.vscode/
+.idea/
